@@ -1,6 +1,0 @@
-2024/05/23-11:42:33.264 2c06 Reusing MANIFEST /home/akulmizev/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/23-11:42:33.264 2c06 Recovering log #6
-2024/05/23-11:42:33.271 2c06 Reusing old log /home/akulmizev/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000006.log 
-2024/05/23-13:19:19.589 2c06 Level-0 table #11: started
-2024/05/23-13:19:19.615 2c06 Level-0 table #11: 1467937 bytes OK
-2024/05/23-13:19:19.624 2c06 Delete type=0 #6
